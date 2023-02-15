@@ -1,2 +1,4 @@
 # Galaxtune-Flutter-FullStack-Project
- Galaxtune Online Music Streaming App in Flutter - Audio Player, GetX, Express & MongoDB for Android and iOS
+ Run the following command on your machine
+ 1. Go to the App folder.
+ 2. Open the terminal and type "flutter run" then press enter to start the project on your machine.
